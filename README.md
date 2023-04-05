@@ -67,15 +67,36 @@ plt.show()
 ```
 
 Output:
+
 Dataset
+
+![ds3 1](https://user-images.githubusercontent.com/119559844/230063235-b100b7eb-89c0-4975-b70f-8ae4fb6a5803.png)
+
 DATA INFO
+
+![ds3 2](https://user-images.githubusercontent.com/119559844/230063309-c6a10899-4df7-4664-a54b-7cf149eda6cf.png)
+
 DATA NULL
+
+![ds 3 3](https://user-images.githubusercontent.com/119559844/230063345-c2090a95-e01b-4e35-89ed-8ab284a17783.png)
+
 APPLYING MODE TO CLEAN THE DATA
+
+![ds3 4](https://user-images.githubusercontent.com/119559844/230064215-dc359ec3-eb4a-4b35-b6c1-3b79920807ed.png)
+
+
 BOX-PLOT
+
+![ds3 5](https://user-images.githubusercontent.com/119559844/230064001-fd8e81a6-8499-46ba-9202-086805dbf361.png)
+
+
 UNIVARIATE - CATEGORY
+
+![ds3 6](https://user-images.githubusercontent.com/119559844/230064055-13b601c5-c36d-4e2a-83ed-e2df2d267771.png)
 
 
 Result:
+
 Thus we have read the given data and performed the univariate analysis with different types of plots.
 
 
