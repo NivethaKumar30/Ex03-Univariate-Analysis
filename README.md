@@ -65,3 +65,17 @@ myexplode = [0, 0.2,0]
 plt.pie(df_count["Sales"], colors = colors,explode = myexplode, labels=labels, autopct = "%0.0f%%",shadow = True) 
 plt.show()
 ```
+
+Output:
+Dataset
+DATA INFO
+DATA NULL
+APPLYING MODE TO CLEAN THE DATA
+BOX-PLOT
+UNIVARIATE - CATEGORY
+
+
+Result:
+Thus we have read the given data and performed the univariate analysis with different types of plots.
+
+
